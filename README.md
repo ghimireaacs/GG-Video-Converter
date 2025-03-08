@@ -27,7 +27,7 @@ Convert horizontal videos to vertical format (9:16) for social media platforms l
 - Tkinter (usually included with Python)
 
 ```bash
-git clone https://github.com/yourusername/vertical-video-converter.git
+git clone https://github.com/ghimireaacs/GG-Video-Converter.git
 cd vertical-video-converter
 pip install -r requirements.txt
 ```
@@ -77,6 +77,8 @@ python main.py
 ```
 vertical-video-converter/
 ├── ffmpeg/          # FFmpeg binaries
+├  ├── ffmpeg.exe
+├  ├── ffprobe.exe
 ├── assets/          # Default watermark
 ├── src/             # Application source code
 

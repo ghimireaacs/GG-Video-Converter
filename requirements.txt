@@ -1,0 +1,6 @@
+# Core Dependencies
+pywin32==306             # Windows API access for version metadata
+
+# Build Tools (optional - only needed for creating executables)
+PyInstaller==5.13.0      # Application packaging
+pefile==2023.2.7         # PE file analysis
